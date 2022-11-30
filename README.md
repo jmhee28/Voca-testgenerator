@@ -1,7 +1,14 @@
-![Django CI](https://github.com/joonparkhere/Voca-testgenerator/actions/workflows/django.yml/badge.svg)
+# ReVocab
+
+![Django CI](https://github.com/jmhee28/Voca-testgenerator/actions/workflows/django.yml/badge.svg)
+
+![logo](thumbnail.png)
+
+Application for vocabulary test generation
 
 ## <div id = "toc">Table of Contents</div>
 
+- [Video Presentation](#presentation)
 - [Overview](#overview)
 - [Examples](#examples)
 - [Quick Start](#quick-start)
@@ -13,6 +20,10 @@
 - [Key Collaborators](#collaborators)
 - [License](#license)
 - [Code of Conduct](#coc)
+
+## <div id = "presentation">Video Presentation</div>
+
+[YouTube Link]()
 
 ## <div id = "overview">Voca Test Generator</div>
 
