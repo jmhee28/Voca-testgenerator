@@ -22,7 +22,7 @@ def index(request):
             endday = 10
             vocanum = 50
             
-        entire_voca_list=[]
+        entire_voca_list=[] #시험범위의 모든 단어
 
         while True:  
             line = f.readline()
@@ -47,7 +47,7 @@ def index(request):
 
         f.close()
 
-        testvocalist = {}
+        testvocalist = {} #최종 시험 단어
         used_idx = []
         total_size = len(entire_voca_list)
         for i in range(1,vocanum):
