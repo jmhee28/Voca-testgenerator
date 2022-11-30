@@ -13,8 +13,8 @@ def index(request):
     # elementfile = []
     # toeicfile = []
     # toflefile = []      
-    # for file in filelist:
-    #     tempfile = os.path.splitext(file)
+    for file in filelist:
+        tempfile = os.path.splitext(file)
     #     if "고" in tempfile[0]:
     #         highfile.append(tempfile[0])
     #     elif "중" in tempfile[0]:
@@ -25,7 +25,7 @@ def index(request):
     #         highfile.append(tempfile[0])
     #     elif "토플" in tempfile[0]:
     #         highfile.append(tempfile[0])
-    #     filenames[tempfile[0]] = file
+        filenames[tempfile[0]] = file
 
     
 
