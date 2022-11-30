@@ -4,7 +4,7 @@ import os
 import random
 # Create your views here.
 def index(request):
-    file_path = os.path.join(settings.DATAS_DIR, '고_능률_voca_어원편.txt')
+    file_path = os.path.join(settings.DATAS_DIR, '고_능률_voca_어원편.txt') # 데이터 파일 명
 
     if request.method == 'POST':
         f = open(file_path, 'r', encoding = 'utf-8')
