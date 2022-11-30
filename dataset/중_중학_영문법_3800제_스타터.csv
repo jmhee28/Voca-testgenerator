@@ -1,0 +1,952 @@
+﻿unit1,
+map,지도
+song,노래
+star,별
+pencil,연필
+bus,버스
+box,상자
+church,교회
+dish,접시
+potato,감자
+tomato,토마토
+radio,라디오
+video,비디오
+car,자동차
+fox,여우
+echo,메아리
+audio,오디오
+bird,새
+beach,해변
+hero,영웅
+zoo,동물원
+test,시험
+cookie,쿠키
+sandwich,샌드위치
+buffalo,버팔로
+kangaroo,캥거루
+cat,고양이
+class,"학급,  수업"
+ash,재
+studio,스튜디오
+duo,"듀오,  2인조"
+stereo,스테레오
+baby,아기
+candy,사탕
+family,가족
+boy,소년
+monkey,원숭이
+toy,장난감
+wolf,늑대
+knife,칼
+wife,아내
+dictionary,사전
+diary,일기
+subway,지하철
+valley,계곡
+shelf,선반
+life,삶
+city,도시
+story,이야기
+holiday,휴일
+half,절반
+country,나라
+party,파티
+key,열쇠
+thief,도둑
+deer,사슴
+series,시리즈
+sheep,양
+aircraft,항공기
+man,남자
+foot,발
+tooth,치아
+child,아이
+crossroads,사거리
+dice,주사위
+spacecraft,우주선
+Japanese,일본인
+woman,여자
+mouse,쥐
+ox,황소
+oasis,오아시스
+goose,거위
+fish,물고기
+coffee,커피
+bread,빵
+ink,잉크
+sugar,설탕
+happiness,행복
+peace,평화
+hope,희망
+luck,"운,  행운"
+the  Nile,나일강
+Korea,한국
+water,물
+cheese,치즈
+freedom,자유
+love,사랑
+America,미국
+pizza,피자
+pencil,연필
+desk,책상
+taxi,택시
+umbrella,우산
+egg,달걀
+apple,사과
+box,상자
+teacher,선생님
+animal,동물
+office,사무실
+hour,시간
+honest,정직한
+desk,책상
+eagle,독수리
+elephant,코끼리
+bus,버스
+man,남자
+person,사람
+orange,오렌지
+lady,여성
+apartment,아파트
+question,질문
+enemy,적
+open,열다
+window,창문
+around,주위에
+Sun,"해,  태양"
+play,"(악기를)  연주하다,
+(운동을)  하다"
+piano,피아노
+have,먹다
+lunch,점심
+send,보내다
+music,음악
+email,이메일
+baseball,야구
+cat,고양이
+lovely,사랑스러운
+pen,펜
+table,테이블
+mine,나의  것
+Moon,달
+Earth,지구
+sky,하늘
+first,첫  번째의
+person,사람
+great,"위대한,  엄청난"
+show,쇼
+guitar,기타
+breakfast,아침
+dinner,저녁
+tennis,테니스
+bus,버스
+train,기차
+unit2,
+good,좋은
+teacher,선생님
+make,~하게  만들다
+happy,행복한
+book,책
+kind,"상냥한,  친절한"
+eat,먹다
+like,좋아하다
+friend,친구
+fall,넘어지다
+floor,바닥
+cousin,사촌
+police  officer,경찰관
+chase,쫓다
+January,1월
+summer,여름
+now,지금
+about,대략
+dark,어두운
+freezing,얼어붙을  듯이  추운
+outside,"밖,  바깥"
+April,4월
+far,먼
+here,여기
+Wednesday,수요일
+bright,밝은
+spring,봄
+house,집
+shirt,셔츠
+mine,나의  것
+look,"보다,  ~하게  보이다"
+cheap,싸다
+favorite,가장  좋아하는
+singer,가수
+fox,여우
+friend,친구
+key,열쇠
+cousin,사촌
+cup,컵
+unit3,
+teacher,선생님
+cook,요리사
+table,탁자
+student,학생
+professor,교수
+rich,부자
+people,사람들
+actor,배우
+doctor,의사
+cat,고양이
+adult,성인
+child,"어린애,  아이"
+thief,도둑
+artist,예술가
+girl,소녀
+expert,전문가
+nurse,간호사
+sad,슬픈
+kind,친절한
+tall,키가  큰
+delicious,맛있는
+sad,슬픈
+beautiful,아름다운
+mean,심술궂은
+good-looking,잘생긴
+brave,용감한
+cheap,값이  싼
+happy,행복한
+fair,공정한
+attractive,매력적인
+angry,화난
+queen,여왕
+elegant,우아한
+fat,"살찐,  뚱뚱한"
+perfect,완벽한
+home,집
+under,~  아래에
+table,탁자
+bridge,다리
+café,카페
+school,학교
+chair,의자
+bus,버스
+museum,박물관
+apple,사과
+desk,책상
+tree,나무
+rabbit,토끼
+book,책
+desk,책상
+man,남자
+bag,가방
+sugar,설탕
+sailor,선원
+sad,슬픔
+cat,고양이
+school,학교
+short,"키가  작은,  짧은"
+concert,콘서트
+athlete,운동선수
+ugly,못생긴
+present,선물
+hospital,병원
+sick,아픈
+home,집
+tired,피곤한
+hungry,배고픈
+happy,행복한
+gloomy,우울한
+writer,작가
+unit4,
+want,원하다
+eat,먹다
+like,좋아하다
+know,알다
+grow,자라다
+go,가다
+pass,지나가다
+fix,고치다
+teach,가르치다
+wash,씻다
+make,만들다
+talk,말하다
+do,하다
+miss,그리워하다
+mix,섞다
+watch,보다
+finish,끝내다
+get,얻다
+dress,옷을  입다
+brush,솔질하다
+run,뛰다
+start,시작하다
+cross,건너다
+touch,만지다
+think,생각하다
+play,놀다
+meet,만나다
+study,공부하다
+fly,날다
+worry,걱정하다
+buy,사다
+say,말하다
+play,"놀다,  하다"
+cry,울다
+try,노력하다
+enjoy,즐기다
+pay,지불하다
+lay,놓다
+hurry,서두르다
+copy,복사하다
+carry,나르다
+start,시작하다
+talk,말하다
+look,보다
+live,살다
+move,움직이다
+save,구하다
+stop,멈추다
+shop,쇼핑하다
+plan,계획하다
+call,부르다
+place,놓다
+drop,떨어지다
+enter,들어가다
+chat,이야기하다
+believe,믿다
+jog,조깅하다
+wish,바라다
+beg,부탁하다
+watch,보다
+agree,동의하다
+want,원하다
+like,좋아하다
+cry,울다
+try,시도하다
+worry,걱정하다
+obey,복종하다
+play,"놀다,  하다"
+stay,머무르다
+carry,나르다
+study,공부하다
+enjoy,즐기다
+pray,기도하다
+marry,결혼하다
+hurry,서두르다
+put,놓다
+read,읽다
+shut,닫다
+bring,가져오다
+buy,사다
+find,발견하다
+cost,비용이  들다
+hit,치다
+let,~하게  하다
+have,"가지다,  먹다"
+keep,"보유하다,  유지하다"
+make,만들다
+hurt,다치다
+feel,느끼다
+set,놓다
+come,오다
+become,되다
+run,달리다
+eat,먹다
+fall,떨어지다
+go,가다
+know,알다
+take,가지고  가다
+write,쓰다
+do,하다
+see,보다
+draw,그리다
+speak,말하다
+begin,시작하다
+shine,반짝이다.  빛나다
+song,노래
+snack,간식
+care,신경  쓰다
+travel,여행하다
+stop,멈추다
+work,일하다
+invite,초대하다
+dinner,저녁식사
+watch,보다
+movie,영화
+Seoul,서울
+money,돈
+believe,믿다
+dog,개
+rain,비오다
+order,주문하다
+fail,실패하다
+study,공부하다
+English,영어
+unit5,
+Wi-Fi,"와이파이  (무선  데이터
+전송  시스템)"
+here,여기에(서)
+autograph,사인
+go,가다
+now,지금
+borrow,빌리다
+book,책
+sit,앉다
+finish,끝내다
+homework,숙제
+waste,낭비하다
+water,물
+hurry,서두르다
+early,일찍
+follow,따르다
+sign,표지판
+unit6,
+difficult,어려운
+puzzle,퍼즐
+something,무언가
+strange,이상한
+bread,빵
+delicious,맛있다
+news,소식
+happy,"기쁜,  행복한"
+crowded,"사람이  많은,  붐비는"
+place,장소
+sweet,"단,  달콤한"
+mother,어머니
+beautiful,아름답다
+dad,아버지
+soldier,군인
+flower,꽃
+hour,시간
+study,공부
+water,물
+money,돈
+dish,접시
+dream,꿈
+night,밤
+lake,호수
+juice,주스
+bottle,병
+friend,친구
+Germany,독일
+some,몇  개의
+snack,간식
+time,시간
+cookie,쿠키
+juice,주스
+unit7,
+nice,멋진
+nicely,멋지게
+different,다른
+differently,다르게
+clear,분명한
+clearly,분명하게
+kind,친절한
+kindly,친절하게
+careful,조심스러운
+carefully,조심스럽게
+heavy,"무거운,  심한"
+heavily,심하게
+lucky,운  좋은
+luckily,운  좋게
+happy,행복한
+happily,행복하게
+angry,화난
+angrily,화내며
+pretty,예쁜
+prettily,예쁘게
+wise,현명한
+wisely,현명하게
+usual,보통
+easy,쉬운
+easily,쉽게
+busy,바쁜
+busily,바쁘게
+friend,친구
+friendly,친근한
+love,사랑
+lovely,사랑스러운
+great,훌륭하다
+sudden,갑자기
+real,"매우,  정말"
+early,"이른,  일찍"
+catch,잡다
+worm,벌레
+English,영어
+hard,"어려운,  열심히"
+get  up,일어나다
+morning,아침
+work,일하다
+fast,"빠른,  빨리"
+runner,달리기  선수
+drive,운전하다
+long,"긴,  길게"
+red,빨간
+hair,머리카락
+stay,머무르다
+here,여기에
+high,"높은,  높게"
+fever,열
+kite,연
+fly,날다
+late,"늦은,  늦게"
+well,"건강한,  잘"
+pretty,"귀여운,  꽤"
+near,"가까운,  가까이"
+daily,매일의  매일
+last,"마지막의,  마지막에"
+low,"낮은,  낮게"
+enough,"충분한,  필요한  만큼"
+always,항상
+use,사용하다
+usually,보통
+energetic,에너지가  넘치는
+family,가족
+often,"자주,  종종"
+enjoy,즐기다
+Italian,이탈리아의
+food,음식
+sometimes,"가끔,  때때로"
+sick,아픈
+rest,휴식
+never,전혀  ~  아니다
+plastic  bag,비닐봉지
+unit8,
+hard,열심히
+large,큰
+difficult,어려운
+useful,유용한
+good,좋은
+bad,나쁜
+fast,빠른
+wise,현명한
+big,큰
+happy,행복한
+quickly,"빨리,  곧"
+much,"많은,  매우"
+tall,키가  큰
+easy,쉬운
+tired,피곤한
+useful,유용한
+many,수가  많은
+little,양이  적은
+small,작은
+large,"큰,  많은"
+hot,더운
+early,이른
+difficult,어려운
+famous,유명한
+unit9,
+say,말하다
+goodbye,작별  인사
+hard,어려운
+dream,꿈
+meet,만나다
+start,시작하다
+laugh,웃다
+want,원하다
+be,~가  되다
+doctor,의사
+hope,바라다
+expect,기대하다
+decide,결정하다
+need,필요하다
+plan,계획하다
+win,이기다
+game,경기
+awesome,놀라운
+cut,자르다
+drink,마시다
+to  go,참석하다
+begin,시작하다
+teach,가르치다
+buy,"사다,  구입하다"
+homework,숙제
+do,하다
+somebody,"어떤  사람,  누군가"
+show,보여주다
+glad,기쁜
+meet,만나다
+magazine,잡지
+difficult,어려운
+read,읽다
+room,방
+clean,청소하다
+someone,"어떤  사람,  누구"
+love,사랑하다
+visit,방문하다
+see,보다
+grandparents,조부모님
+happy,행복한
+again,다시
+hard,어려운
+reach,닿다
+grow  up,자라다
+be,~가  되다
+singer,가수
+early,"초기의,  이른"
+excited,"신이  난,  들뜬,  흥분한"
+news,소식
+eat,먹다
+unit10,
+and,그리고
+but,"그러나,  하지만"
+or,"또는,  (그것이)  아니면"
+can,~을  할  수  있다
+sing,노래하다
+dance,춤추다
+problem,문제
+simple,간단한
+easy,쉬운
+watch,~을  보다
+movie,영화
+play,"놀다,  (게임을)  하다"
+game,게임
+weekend,주말
+today,오늘
+breakfast,아침식사
+jam,잼
+bread,빵
+smart,똑똑한
+selfish,이기적인
+one-way  trip,편도  여행
+round trip,왕복  여행
+trust,신뢰하다
+yourself,너  자신
+brave,용감한
+hurry,서두르다
+late,늦은
+weather,날씨
+swim,"수영하다,  헤엄치다"
+exam,시험
+before,~하기  전에
+after,~한  후에
+buy,사다
+thing,물건
+search,검색하다
+part-timer,시간제  근무  직원
+become,~이  되다
+famous,유명한
+picture,"사진,  그림"
+eat,먹다
+delicious,맛있는
+food,음식
+chocolate,초콜릿
+drink,마시다
+water,물
+soccer,축구
+graduate,졸업하다
+abroad,해외
+model,모델
+lunch,점심
+concert,"콘서트,  공연"
+gate,출입구
+school,학교
+be over,끝나다
+mirror,거울
+shower,"샤워기,  샤워실"
+forget,잊다
+missed,"놓친,  손실  된"
+something,"어떤  것(일),  무엇"
+rain,"비,  비가  오다"
+when,~할  때
+while,~하는  동안
+feel,"(기분이)  들다,  느끼다"
+good,좋은
+go  out,외출하다
+snow,눈
+fall,"내리다,  떨어지다"
+study,공부하다
+sister,"언니,  누나,  여동생"
+listen  to,~을  듣다
+music,음악
+play,"놀다,  (게임을)  하다"
+game,게임
+brother,"형,  오빠,  남동생"
+eat,먹다
+cookie,쿠키
+tired,피곤한
+take a nap,낮잠을  자다
+wait  for,~를  기다리다
+watch,보다
+leave,떠나다
+ready,준비가  (다)  된
+left,"왼쪽의,  좌측의"
+dinner,저녁
+walk,"걷다,  걸어가다"
+famous,유명한
+because,"~  때문에,  ~해서"
+since,~부터(이후)
+like,좋아하다
+want,원하다
+be,~가  되다
+singer,가수
+sing,노래  부르다
+amusement  park,놀이공원
+rain,"비,  비가  오다"
+drop,떨어뜨리다
+take a rest,휴식을  취하다
+absent,결석한
+sick,아픈
+money,돈
+shoes,신발
+tired,피곤한
+hungry,배고픈
+decided,"확실한,  결정적인"
+thirsty,"목이  마른,  갈증이  나는"
+unit11,
+November,11월
+summer,여름
+morning,아침
+noon,정오
+time,시간
+May,5월
+Monday,월요일
+birthday,생일
+February,2월
+spring,봄
+afternoon,오후
+night,밤
+tomorrow,내일
+January,1월
+Tuesday,화요일
+Christmas,크리스마스
+month,"월,  달(개월)"
+weekend,주말
+humid,습한
+Olympics,올림픽  (국제경기대회)
+open,열다
+before,~  전에
+after,~  후에
+practice,연습하다
+violin,바이올린
+lunch,점심식사
+everything,모든  것
+sold  out,다  팔린
+take  a  rest,휴식을  취하다
+meeting,회의
+badminton,배드민턴
+school,학교
+take  a  walk,산책을  하다
+sunset,"해질녘,  일몰"
+answer,"전화를  받다,  대답하다"
+hungry,배고픈
+because,"~때문에,  ~해서"
+long  trip,장거리  여행
+temple,"절,  사원"
+break,휴식
+breakfast,아침식사
+autumn,가을
+weekend,주말
+world,세계
+building,건물
+sky,하늘
+home,집
+work,직장
+party,파티
+ground,땅
+subway,지하철
+road,도로
+pocket,호주머니
+space,우주
+door,문
+university,대학교
+concert,"콘서트,  공연"
+wall,벽
+street,"-가,  도로,  거리"
+corner,"모서리,  모퉁이"
+train,"기차,  열차"
+lessons,수업
+cities,도시
+between,~  사이에(둘  사이)
+among,~  사이에(셋  이상일  때)
+parents,부모님
+pharmacy,약국
+bank,은행
+hotel,호텔
+popular,인기가  있는
+classmate,반  친구
+girl,소녀
+stand,서다
+children,아이들
+highway,고속도로
+student,학생
+child,어린이
+sit,"앉다,  앉아  있다"
+in  front  of,~  앞에
+behind,~  뒤에
+next  to,~  옆에
+bag,가방
+chair,의자
+sit,앉다
+see,보다
+rainbow,무지개
+mountain,산
+toy,장난감
+box,상자
+gym,체육관
+flower  shop,꽃집
+hospital,병원
+library,도서관
+unit12,
+bird,새
+fly,날다
+walk,걷다
+look,~하게  보이다
+happy,행복한
+tired,피곤한
+sit,앉다
+handsome,잘생긴
+high,높게
+stay,머무르다
+home,집
+look,~하게  보이다
+feel,~하게  느끼다
+nervous,긴장한
+sound,~하게  들리다
+fun,재미있는
+perfume,향수
+smell,~한  냄새가  나다
+bad,안  좋은
+chicken,치킨
+taste,~한  맛이  나다
+good,좋은
+fool,바보
+idea,생각
+drink,마시다
+coffee,커피
+chocolate,초콜릿
+excited,"신이  난,  들뜬"
+weird,"이상한,  기이한"
+attend,출석하다
+class,수업
+study,공부하다
+math,수학
+send,보내다
+letter,편지
+parents,부모님
+buy,사다
+bike,자전거
+teach,가르치다
+English,영어
+tell,말하다
+truth,진실
+give,주다
+show,보여주다
+make,만들다
+ask,묻다
+question,"질문,  문제"
+discussed,"상의(논의,  의논)하다"
+secret,비밀
+show,보여주다
+picture,사진
+buy,사다
+dress,드레스
+ask,물어보다
+teacher,선생님
+question,질문
+give,주다
+send,보내다
+teach,가르치다
+tell,말해주다
+cook,요리를  하다
+find,찾아주다
+make,만들어주다
+dinner,저녁식사
+shocking,"놀라운,  충격적인"
+make,~하게  만들다
+happy,행복한
+find,생각하다
+difficult,어려운
+call,부르다
+cat,고양이
+tell,말하다
+homework,숙제
+ask,요청하다
+close,닫다
+door,문
+allow,허용하다
+save,아끼다
+time,시계
+vegetable,채소
+healthy,건강한
+stop,멈추다
+laugh,웃다
+want,원하다
+get,~하게  하다
+advise,충고하다
+loudly,"큰  소리로,"
+beautiful,아름답다
+sleep,(잠을)자다
+make,~하게  만들다
+happy,행복한
+let,~가  ~하게  하다
+use,사용하다
+phone,전화
+feel,느끼다
+bed,침대
+shake,흔들리다
+see,보다
+man,남자
+sleep,자다
+street,거리
+have,~하게  하다
+help,돕다
+hear,듣다
+watch,보다
+unit13,
+who,누가
+when,언제
+how,어떻게
+what,무엇을
+where,어디서
+why,왜
+go,(일의  진행이)  되다
+favorite,가장  좋아하는
+book,책
+school,학교
+great,매우  좋은
+fight,싸우다
+with,~와
+friend,친구
+terrible,"끔찍한,  소름끼치는"
+hometown,고향
+answer,"대답하다,  대응하다"
+diligent,성실한
+speak,말하다
+English,영어
+like,좋아하다
+coffee,커피
+polite,"상냥한,  예의  바른"
+swim,수영하다
+clean,청소하다
+room,방
+cousin,"사촌,  친척"
+early,"초기의,  이른"
+secret,비밀
+careful,조심하는
+clean,청소하다
+room,방
+study,공부하다
+hard,열심히
+cry,울다
+moise,소음
+go  to  bed,자러  가다
+too,너무
+late,"늦게,  늦은"
+before,"하기  전에,  앞에"
+classroom,교실
+wise,현명한
+fun,"재미,  장난"
+study,공부하다
+have,먹다
+lunch,점심식사
+listen  to,~을  듣다
+music,음악
+fight,싸우다
+drink,마시다
+go,가다
+park,공원
+sing,노래  부르다
+eat,먹다
+hamburger,햄버거
+taxi,택시
+topic,"주제,  화제"
+happen,"발생하다,  벌어지다"
+outside,"외부의,  바깥쪽"
+homework,숙제
