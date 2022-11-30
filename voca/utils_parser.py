@@ -5,7 +5,7 @@ from os import listdir
 from os.path import isfile, join, splitext
 from vocaparser.settings import BASE_DIR
 
-DIR_PATH = join(BASE_DIR, 'dataset')
+DIR_PATH = join(BASE_DIR, 'dataset/legacy')
 SUPPORT_EXTENSIONS = ['.csv']
 DELIMITERS = [',', '|', '.', ';']
 

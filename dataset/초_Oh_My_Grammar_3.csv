@@ -1,0 +1,316 @@
+﻿unit1,
+sandwich,샌드위치
+butterfly,나비
+knife,"칼, 나이프"
+woman,성인 (여자)
+bread,빵
+butter,버터
+milk,우유
+juice,주스
+earth,지구
+cheese,치즈
+cookie,"쿠키, 과자"
+onion,양파
+coffee,커피
+honey,꿀
+umbrella,우산
+soup,수프
+orange,오렌지
+hamburger,햄버거
+warm,따뜻한
+soft,"부드러운, 말랑한, 푹신한"
+round,"둥근, 동그란"
+sharp,"날카로운, 뾰족한"
+sweet,"달콤한, 단"
+unit2,
+am/are/is,"~이다, ~하다"
+zookeeper,(동물원) 사육사
+vet,수의사
+pilot,"조종사, 파일럿"
+penguin,펭귄
+owl,"부엉이, 올빼미"
+bored,지루해하는
+excited,"신난, 흥분한"
+thick,두꺼운
+thin,얇은
+happy,행복한
+angry,화난
+sick,"아픈, 병든"
+okay,괜찮은
+fast,빠른
+slow,느린
+artist,"화가, 예술가"
+mitten,벙어리장갑 (한 짝)
+hospital,병원
+dentist,치과 의사
+unit3,
+some,"조금, 약간의, 몇몇의"
+potato,감자
+carrot,당근
+salt,소금
+tomato,토마토
+cup,"컵, 잔"
+sugar,설탕
+grape,포도
+fork,포크
+spoon,"숟가락, 스푼"
+rice,"쌀, 밥"
+strawberry,딸기
+ice cream,아이스크림
+unit4,
+walk,"걷다, 걸어가다"
+take,(버스 등을) 타다
+study,"공부하다, 배우다"
+get up,일어나다
+have,가지고 있다; 먹다
+breakfast,아침식사
+brush one’s hair[teeth],"머리를 빗다[이를 닦다, 양치하다]"
+like,좋아하다
+clean,청소하다
+drink,마시다
+catch,잡다
+pass,"지나가다, 통과하다; (공을) 패스하다"
+mix,섞다
+do,하다
+fly,"날다, (연 등을) 날리다"
+carry,"가지고[들고] 가다, 나르다"
+try,"시도하다, 해보다"
+watch,"보다, 지켜보다"
+soda,탄산음료
+math,수학
+science,과학
+cream,크림
+go,가다
+wash,씻다
+play,(운동 경기 등을) 하다; (악기를) 연주하다
+flute,플루트
+unit5,
+swim,"수영하다, 헤엄치다"
+take a shower,샤워를 하다
+tail,꼬리
+live,살다
+city,도시
+lunch,점심 (식사)
+go to bed,"자다, 취침하다"
+tennis,테니스
+ride,(자전거 등을) 타다
+do one’s homework,숙제를 하다
+unit6,
+playing,"노는 중, (게임, 운동 경기 등을) 하는 중"
+talking,이야기하는 중
+studying,공부하는 중
+standing,서 있는 중
+dancing,춤 추는 중
+driving,운전하는 중
+riding,(자전거 등을) 타는 중
+sitting,앉아 있는 중
+jogging,조깅하는 중
+swimming,수영하는 중
+walking,걷는 중
+eating,먹는 중
+running,"달리는 중, 뛰는 중"
+cutting,자르는 중
+drive,운전하다
+volleyball,배구
+pool,수영장
+taxi,택시
+grass,잔디(밭)
+newspaper,신문
+scooter,퀵보드
+pond,연못
+climb,"오르다, 올라가다"
+unit7,
+writing,쓰는 중
+letter,편지
+card,(생일 등에 보내는) 카드
+blowing up,(입으로) 부는 중
+singing,노래하는 중
+song,노래
+email,이메일
+listening,듣는 중
+music,음악
+hold,들고 있다
+close,닫다
+laugh,웃다
+unit8,
+outside,"밖에, 바깥에"
+badminton,배드민턴
+wear,입고 있다
+forget,"잊다, 잊어버리다"
+buy,사다
+movie,영화
+playground,"놀이터, 운동장"
+vegetable,"채소, 야채"
+sidewalk,"인도, 보도"
+sit down,앉다
+open,열다
+use,사용하다
+draw,(연필 등으로) 그리다
+unit9,
+will,"~할 것이다, ~일 것이다"
+tomorrow,내일
+stay,"계속 있다, 머물다"
+be,"~이다, ~하다"
+rainy,비가 많이 오는
+sunny,"(날씨가) 맑은, 화창한"
+meet,만나다
+rain,"비, 비가 오다"
+read,읽다
+cook,요리하다
+go shopping,쇼핑하러 가다
+jeans,청바지
+movie theater,영화관
+unit10,
+visit,"방문하다, 찾아가다"
+go swimming,수영하러 가다
+mountain,산
+go on a trip,여행을 가다
+market,시장
+cloudy,"흐린, 구름이 많이 낀"
+airplane,비행기
+hotel,호텔
+beach,"해변, 바닷가"
+go camping,캠핑하러 가다
+go skiing,스키 타러 가다
+bring,가져오다[가다]
+coat,코트
+scarf,목도리
+unit11,
+yesterday,어제
+at,~에 (장소)
+zoo,동물원
+museum,박물관; 미술관
+home,집
+school,학교
+library,도서관
+airport,공항
+late,늦은
+weather,날씨
+nice,"(날씨가) 좋은, 화창한"
+classroom,교실
+hungry,배고픈
+tired,"피곤한, 지친"
+funny,"웃기는, 재미있는"
+swimming pool,수영장
+unit12,
+concert,콘서트
+(watch) - watched,봤다
+(dance) - danced,춤췄다
+( jump) - jumped,"점프했다, 뛰었다"
+(visit) - visited,"방문했다, 찾아갔다"
+(walk) - walked,걸었다
+(play) - played,놀았다; (운동 경기 등을) 했다; (악기를) 연주했다
+(like) - liked,좋아했다
+(bake) - baked,구웠다
+(practice) - practiced,연습했다
+(cry) - cried,울었다
+(study) - studied,공부했다
+(carry) - carried,"들고 갔다, 날랐다"
+(try) - tried,"시도했다, 해 봤다"
+(help) - helped,도와주었다
+(cook) - cooked,요리했다
+(wash) -washed,씻었다
+(live) - lived,살았다
+Spanish,스페인어
+dinner,저녁식사
+basket,바구니
+pie,파이
+cupcake,컵 케이크
+apartment,아파트
+yoga,(운동) 요가
+unit13,
+(go) – went,갔다
+(have) – had,"(파티를) 열었다, 먹었다"
+(drink) – drank,마셨다
+(get) – got,"얻었다, 샀다"
+(come) – came,왔다
+(give) – gave,줬다
+(write) – wrote,썼다
+(do) – did,했다
+(make) – made,만들었다
+(see) – saw,봤다
+took a shower,샤워를 했다
+(eat) – ate,먹었다
+(buy) – bought,샀다
+(read) – read,읽었다
+(cut) – cut,잘랐다
+go on a picnic,소풍 가다
+balloon,풍선
+candle,"양초, 초"
+unit14,
+snow,"눈, 눈이 오다"
+test,"시험, 테스트"
+chocolate,초콜릿
+guitar,기타
+room,방
+early,일찍
+train,"기차, 열차"
+amusement park,놀이공원
+ship,배
+take a photo,사진을 찍다
+unit15,
+who,누구
+what,무엇
+whose,누구의
+where,어디에
+when,언제
+photo,사진
+actor,배우
+classmate,반 친구
+photographer,사진(작)가
+camera,카메라
+ring,반지
+glassses,안경
+in,"~안에, ~안의; ~에 (월, 달)"
+on,"~위에; ~에 (요일, 날짜)"
+at,~에 (시간)
+under,"~아래에, ~밑에"
+class,수업 (시간)
+jar,유리병
+lesson,"수업, 강습"
+album,앨범
+lake,호수
+barbecue,바비큐 (파티)
+hot dog,핫도그
+unit16,
+shy,"수줍어하는, 부끄럼 타는"
+quiet – quietly,조용한 – 조용히
+slow – slowly,"느린 – 느리게, 천천히"
+loud – loudly,"(소리가) 큰, 시끄러운 – 큰소리로, 크게"
+kind – kindly,친절한 – 친절하게
+careful – carefully,조심하는 – 조심해서
+happy – happily,행복한 – 행복하게
+dangerous – dangerously,위험한 – 위험하게
+noisy – noisily,시끄러운 – 시끄럽게
+fast – fast,"빠른 – 빠르게, 빨리"
+early – early,일찍 – 일찍
+late – late,늦은 – 늦게
+good – well,"좋은, 훌륭한 – 잘"
+runner,"달리는 사람, 주자"
+walker,걷는 사람
+driver,운전자
+bark,(개가) 짖다
+paint,(물감 등으로) 그리다
+smile,"웃다, 미소 짓다"
+snail,달팽이
+move,움직이다
+unit17,
+small – smaller,작은 – 더 작은
+light – lighter,가벼운 – 더 가벼운
+fast – faster,빠른 – 더 빠른
+large – larger,"큰, 넓은 – 더 큰, 더 넓은"
+nice – nicer,멋진 – 더 멋진
+big – bigger,큰 – 더 큰
+hot – hotter,"더운, 뜨거운 – 더 더운, 더 뜨거운"
+heavy – heavier,무거운 – 더 무거운
+easy – easier,쉬운 – 더 쉬운
+expensive – more expensive,비싼 – 더 비싼
+dangerous – more dangerous,위험한 – 더 위험한
+beautiful – more beautiful,아름다운 – 더 아름다운
+slow – slower,느린 – 더 느린
+cheap – cheaper,(값이) 싼 – 더 싼
+short – shorter,짧은 – 더 짧은
+long – longer,긴 – 더 긴
+cool – cooler,시원한 – 더 시원한
+whale,고래
+watermelon,수박
