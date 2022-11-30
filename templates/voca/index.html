@@ -6,12 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-
 </head>
 
 <body>
     <form action="{% url 'index' %}" method="POST">
         {% csrf_token %}
+        <div>
+            <label for="language"></label>
+            <input type="text" name="start">
+        </div>
         <div>
             <label for="start">시작</label>
             <input type="text" name="start">

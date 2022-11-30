@@ -3,7 +3,6 @@ import os
 import random
 # Create your views here.
 def index(request):
-
     module_dir = os.path.dirname(__file__)
     file_path = os.path.join(module_dir, 'wordmaster2000.txt')
     if request.method == 'POST':
@@ -47,7 +46,7 @@ def index(request):
             
             testvocalist.append(wr[:-1])
         
-        return render(request, 'voca/index.html', {'testlist' : testvocalist})
+        return render(request, 'voca/WTG.html', {'testlist' : testvocalist})
 
 
-    return render(request, 'voca/index.html')
+    return render(request, 'voca/WTG.html')
