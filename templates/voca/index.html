@@ -114,7 +114,8 @@
                 </form>
                 </div>
                 <div id="but">
-                    <button type="button" class="btn btn-primary">Check your answer</button>
+                    <button type="button" class="btn btn-primary" onclick="showans();">Check your answer</button>
+                    <button type="button" class="btn btn-primary" onclick="hideans();">Hide your answer</button>
                 </div>
                 
             </div>
@@ -126,20 +127,29 @@
                     <th class="ques">Your Answer</th>
                     <th id="check">Correct Answer</th>
                 </tr>
-            </table>
-            <table border="1">
-                <th ></th>
-                <th></th>
-                <th ></th>
-                {% for i in testlist %}
+                {% for key , value in testlist.items %}
                 <tr>
-                    <td>{{i}}</td>
-                    <td></td>
-                    <td></td>
+                    <td>{{key}}</td>
+                    <td><input type="text"></td>
+                    <td class ="answer" style="display: none">{{value}}</td>
                 </tr>
                 {% endfor %}
-        
             </table>
+           
         </section>
     </body>
+
+    <script>
+        const ans = document.querySelectorAll(".answer");
+        function showans(){
+            ans.forEach((el) => {
+                el.style.display = "block";
+                });
+        }
+        function hideans(){
+          ans.forEach((el) => {
+              el.style.display = "none";
+              });
+      }
+    </script>
 </html>
