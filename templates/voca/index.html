@@ -76,36 +76,29 @@
                     <table id="middle">
                         <tr>
                          <th class="mid"><strong>Start</strong></th>
-                         <th><input type="text" class="area" name = "start" id="exampleFormControlInput1" placeholder=""></th>
+                         <th><input type="text" class="area" name = "start" id="exampleFormControlInput1" placeholder="" required></th>
                         </tr>
                         <tr>
                             <th class="mid"><strong>Finish</strong></th>
-                            <th><input type="text" class="area" name ="end" id="exampleFormControlInput1" placeholder=""></th>
+                            <th><input type="text" class="area" name ="end" id="exampleFormControlInput1" placeholder="" required></th>
                         </tr>
                         <tr> 
                             <th class="mid"><strong>Question Number</strong></th>
-                            <th><input type="text" class="area" name = "voca" id="exampleFormControlInput1" placeholder=""></th>
+                            <th><input type="text" class="area" name = "voca" id="exampleFormControlInput1" placeholder="" required></th>
                         </tr>
                         <tr>
                             <th class="mid">Select Data</th>
                             <th>
-                                <form>
-                                    <select>
-                                        <option>초_쎄듀_</option>
-                                        <option>중_쎄듀_</option>
-                                        <option>고_쎄듀_</option>
-                                        <option>초_마더텅_</option>
-                                        <option>중_마더텅_</option>
-                                        <option>고_마더텅_</option>
-                                        <option>초_수경_</option>
-                                        <option>중_수경_</option>
-                                        <option>고_수경_</option>
-                                        <option>ebs_수능특강_</option>
+                               
+                                    <select name = "filename" id ="filename">
+                                        {% for key, value in filenames.items %}
+                                        <option value="{{value}}">{{key}}</option>
+                                        {% endfor %}
                                     </select>
-                                </form>
+                                
                             </th>
                             <th><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-                                <button type="submit" class="btn btn-primary">Start Test</button></th>
+                                <button  type="submit" class="btn btn-primary" >Start Test</button></th>
                         </tr>
                    </table>
                 </form>
@@ -148,5 +141,6 @@
               el.style.display = "none";
               });
       }
+
     </script>
 </html>

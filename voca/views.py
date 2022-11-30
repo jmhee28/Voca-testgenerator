@@ -4,15 +4,20 @@ import os
 import random
 # Create your views here.
 def index(request):
-    file_path = os.path.join(settings.DATAS_DIR, '고_능률_voca_어원편.txt') # 데이터 파일 명
+    filelist = os.listdir(settings.DATAS_DIR)
+    # print(filelist)
 
+    filenames ={}
+
+    for file in filelist:
+        tempfile = os.path.splitext(file)
+        filenames[tempfile[0]] = file
+    print(filenames)
     if request.method == 'POST':
+        filename = request.POST.get('filename', None)
+        print(filename)
+        file_path = os.path.join(settings.DATAS_DIR, filename) 
         f = open(file_path, 'r', encoding = 'utf-8')
-        
-        startday = 1
-        endday = 10
-        vocanum = 50
-
         try:
             startday = "unit"+request.POST['start']
             endday = "unit"+request.POST['end']
@@ -27,13 +32,13 @@ def index(request):
         while True:  
             line = f.readline()
             line = line[:-1]
-            if line == startday: 
+            if startday in line: 
                 while(1):
                     nline = f.readline()
                     nline = nline[:-1]
                     if "unit" not in nline:
                         entire_voca_list.append(nline)
-                    if nline == endday:
+                    if endday in nline:
                         while(1):
                             nline = f.readline()                    
                             if "unit" in nline:
@@ -59,9 +64,9 @@ def index(request):
             used_idx.append(num)
             voca = entire_voca_list[num].split(",")
            
-            testvocalist[voca[0]] = voca[1].replace("|", ", ")
-        print(testvocalist)
-        return render(request, 'voca/index.html', {'testlist' : testvocalist})
+            testvocalist[voca[0]] = voca[1]
+        # print(testvocalist)
+        return render(request, 'voca/index.html', {'testlist' : testvocalist, 'filenames': filenames})
 
 
-    return render(request, 'voca/index.html')
+    return render(request, 'voca/index.html', {'filenames': filenames})
