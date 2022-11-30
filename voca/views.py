@@ -8,10 +8,27 @@ def index(request):
     # print(filelist)
 
     filenames ={}
+    # highfile =[]
+    # middlefile = []
+    # elementfile = []
+    # toeicfile = []
+    # toflefile = []      
+    # for file in filelist:
+    #     tempfile = os.path.splitext(file)
+    #     if "고" in tempfile[0]:
+    #         highfile.append(tempfile[0])
+    #     elif "중" in tempfile[0]:
+    #         middlefile.append(tempfile[0])
+    #     elif "초" in tempfile[0]:
+    #         elementfile.append(tempfile[0])
+    #     elif "토익" in tempfile[0]:
+    #         highfile.append(tempfile[0])
+    #     elif "토플" in tempfile[0]:
+    #         highfile.append(tempfile[0])
+    #     filenames[tempfile[0]] = file
 
-    for file in filelist:
-        tempfile = os.path.splitext(file)
-        filenames[tempfile[0]] = file
+    
+
     print(filenames)
     if request.method == 'POST':
         filename = request.POST.get('filename', None)
