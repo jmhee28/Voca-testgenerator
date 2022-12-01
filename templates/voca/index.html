@@ -175,9 +175,9 @@
                 </form>
             </div>
             <div id="but">
-                <button type="button" style="margin-bottom: 10px;" class="btn btn-primary" onclick="showans();">Check
+                <button type="button" style="margin-bottom: 10px;" class="btn btn-primary" id="check-answer">Check
                     your answer</button>
-                <button type="button" class="btn btn-primary" onclick="hideans();">Hide your answer</button>
+                <button type="button" class="btn btn-primary" id="hide-answer">Hide your answer</button>
             </div>
 
         </div>
@@ -223,7 +223,16 @@
     }
     function hideans() {
         ans.forEach((el) => {
-            el.style
+            el.style.display = "none";
+        });
+    }
+
+    const check_btn = document.getElementById("check-answer");
+    check_btn.onclick = showans;
+
+    const hide_btn = document.getElementById("hide-answer");
+    hide_btn.onclick = hideans;
+
     function categoryChange(opt1selfield) {
 
         fields.forEach((f) =>{
