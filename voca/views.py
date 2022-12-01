@@ -95,7 +95,7 @@ def index(request):
             'toeicfile' : toeicfile,
             'toflefile' :toflefile 
         }
-        return render(request, 'voca/index.html', context)
+        return render(request, 'voca/Word-Test-Generator.html', context)
 
 
     else:
@@ -107,4 +107,4 @@ def index(request):
             'toeicfile' : toeicfile,
             'toflefile' :toflefile 
         }
-        return render(request, 'voca/index.html', context)
+        return render(request, 'voca/Word-Test-Generator.html', context)
