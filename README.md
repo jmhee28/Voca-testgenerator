@@ -23,7 +23,7 @@ Application for vocabulary test generation
 
 ## <div id = "presentation">Video Presentation</div>
 
-[YouTube Link]()
+[YouTube Link](https://www.youtube.com/watch?v=WmwaSrSZrJs)
 
 ## <div id = "overview">Voca Test Generator</div>
 
@@ -46,8 +46,6 @@ Therefore, we intend to provide a foreign language word memorization test paper 
 You can just access [Out Website](http://revocab.duckdns.org:8000/).
 
 ## <div id = "installation">Installation</div>
-
-Just Access [Our Website](http://revocab.duckdns.org:8000/)!
 
 If you want to run server in local, follow the instructions below.
 
