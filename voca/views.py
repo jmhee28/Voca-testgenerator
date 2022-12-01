@@ -2,37 +2,39 @@ from django.shortcuts import render
 from django.conf import settings
 import os
 import random
+import json
 # Create your views here.
 def index(request):
     filelist = os.listdir(settings.DATAS_DIR)
     # print(filelist)
 
     filenames ={}
-    # highfile =[]
-    # middlefile = []
-    # elementfile = []
-    # toeicfile = []
-    # toflefile = []      
+    highfile ={}
+    middlefile = {}
+    elementfile = {}
+    toeicfile = {}
+    toflefile = {}      
     for file in filelist:
         tempfile = os.path.splitext(file)
-    #     if "고" in tempfile[0]:
-    #         highfile.append(tempfile[0])
-    #     elif "중" in tempfile[0]:
-    #         middlefile.append(tempfile[0])
-    #     elif "초" in tempfile[0]:
-    #         elementfile.append(tempfile[0])
-    #     elif "토익" in tempfile[0]:
-    #         highfile.append(tempfile[0])
-    #     elif "토플" in tempfile[0]:
-    #         highfile.append(tempfile[0])
+        if "고" in tempfile[0]:
+            temp = tempfile[0].replace("고_", "")
+            highfile[temp] = file
+        elif "중" in tempfile[0]:
+            temp = tempfile[0].replace("중_", "")
+            middlefile[temp] = file
+        elif "초등" in tempfile[0]:
+            temp = tempfile[0].replace("초등_", "")
+            elementfile[temp] = file
+        elif "토익" in tempfile[0]:
+            temp = tempfile[0].replace("토익_", "")    
+            toeicfile[temp] = file
+        elif "토플" in tempfile[0]:
+            temp = tempfile[0].replace("토플_", "")
+            toflefile[temp] = file
         filenames[tempfile[0]] = file
 
-    
-
-    print(filenames)
     if request.method == 'POST':
         filename = request.POST.get('filename', None)
-        print(filename)
         file_path = os.path.join(settings.DATAS_DIR, filename) 
         f = open(file_path, 'r', encoding = 'utf-8')
         try:
@@ -80,10 +82,28 @@ def index(request):
                     break
             used_idx.append(num)
             voca = entire_voca_list[num].split(",")
-           
-            testvocalist[voca[0]] = voca[1]
-        # print(testvocalist)
-        return render(request, 'voca/index.html', {'testlist' : testvocalist, 'filenames': filenames})
+            vocamean = voca[1].replace("\"", "")
+            vocamean = vocamean.replace("|", ",")
+            testvocalist[voca[0]] = vocamean
+        context = {
+            'testlist' : testvocalist, 
+            'filenames': filenames,
+            'highfile': highfile,
+            'middlefile' : middlefile,
+            'elementfile' : elementfile,
+            'toeicfile' : toeicfile,
+            'toflefile' :toflefile 
+        }
+        return render(request, 'voca/index.html', context)
 
 
-    return render(request, 'voca/index.html', {'filenames': filenames})
+    else:
+        context = {
+            'filenames': filenames,
+            'highfile': highfile,
+            'middlefile' : middlefile,
+            'elementfile' : elementfile,
+            'toeicfile' : toeicfile,
+            'toflefile' :toflefile 
+        }
+        return render(request, 'voca/index.html', context)
