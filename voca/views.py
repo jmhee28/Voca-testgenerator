@@ -88,6 +88,7 @@ def index(request):
         context = {
             'testlist' : testvocalist, 
             'filenames': filenames,
+            'filename':filename,
             'highfile': highfile,
             'middlefile' : middlefile,
             'elementfile' : elementfile,

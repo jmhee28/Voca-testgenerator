@@ -125,37 +125,37 @@
                                     <option value="tofle">토플</option>
                                 </select>
 
-                                <select name="filename" id="filename" onchange="filechange(this);">
+                                <select name="filename" id="filename">
                                     {% for key, value in filenames.items %}
                                     <option value="{{value}}">{{key}}</option>
                                     {% endfor %}
                                 </select>
 
-                                <select name="filename" id="highfile" style="display: none;" onchange="filechange(this);">
+                                <select name="filename" id="highfile" style="display: none;">
                                     {% for key, value in highfile.items %}
                                     <option value="{{value}}">{{key}}</option>
                                     {% endfor %}
                                 </select>
 
-                                <select name="filename" id="middlefile" style="display: none;" onchange="filechange(this);">
+                                <select name="filename" id="middlefile" style="display: none;">
                                     {% for key, value in middlefile.items %}
                                     <option value="{{value}}">{{key}}</option>
                                     {% endfor %}
                                 </select>
 
-                                <select name="filename" id="elementfile" style="display: none;" onchange="filechange(this);">
+                                <select name="filename" id="elementfile" style="display: none;">
                                     {% for key, value in elementfile.items %}
                                     <option value="{{value}}">{{key}}</option>
                                     {% endfor %}
                                 </select>
 
-                                <select name="filename" id="toeicfile" style="display: none;" onchange="filechange(this);">
+                                <select name="filename" id="toeicfile" style="display: none;">
                                     {% for key, value in toeicfile.items %}
                                     <option value="{{value}}">{{key}}</option>
                                     {% endfor %}
                                 </select>
 
-                                <select name="filename" id="toflefile" style="display: none;" onchange="filechange(this);">
+                                <select name="filename" id="toflefile" style="display: none;">
                                     {% for key, value in toflefile.items %}
                                     <option value="{{value}}">{{key}}</option>
                                     {% endfor %}
@@ -185,9 +185,7 @@
 
         <table>
             
-            <tr></tr>
-                <th >교재</th>
-                <th  id= "selectedfile"></th>
+            
             <tr id="low">
                 <th class="ques">Question</th>
                 <th class="ques">Your Answer</th>
@@ -225,19 +223,7 @@
     }
     function hideans() {
         ans.forEach((el) => {
-            el.style.display = "none";
-        });
-    }
-    function filechange(fileselfield){
-        const len = fileselfield.options.length; //select box의 option 갯수
-        //select box의 option 갯수만큼 for문 돌림
-        for (let i=0; i<len; i++){  
-            //select box의 option value가 입력 받은 value의 값과 일치할 경우 selected
-            if(fileselfield.options[i].selected == true){
-                selectedfile.innerHTML = fileselfield.options[i].innerHTML;
-            }
-        }  
-    }
+            el.style
     function categoryChange(opt1selfield) {
 
         fields.forEach((f) =>{
