@@ -43,11 +43,11 @@ Therefore, we intend to provide a foreign language word memorization test paper 
 
 ## <div id = "quick-start">Quick Start</div>
 
-You can just access [Out Website](http://ec2-3-36-4-131.ap-northeast-2.compute.amazonaws.com:8080/).
+You can just access [Out Website](http://revocab.duckdns.org:8000/).
 
 ## <div id = "installation">Installation</div>
 
-Just Access [Our Website](http://ec2-3-36-4-131.ap-northeast-2.compute.amazonaws.com:8080/)!
+Just Access [Our Website](http://revocab.duckdns.org:8000/)!
 
 If you want to run server in local, follow the instructions below.
 
@@ -64,11 +64,11 @@ If you want to run server in local, follow the instructions below.
 3. Run Server
 
     ```bash
-    python manage.py runserver 8000
+    python manage.py runserver 0:8000
     ```
 4. Explore Website
 
-    http://localhost:8000
+    http://127.0.0.1:8000
 
 ## <div id = "components">Components</div>
 
